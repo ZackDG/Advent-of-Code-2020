@@ -7,6 +7,8 @@
 /// 
 /// Day 1
 /// 
+/// Prompt https://adventofcode.com/2020/day/1
+/// 
 /// </summary>
 /// <returns></returns>
 int main()
